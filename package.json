@@ -1,0 +1,29 @@
+{
+  "name": "chalk.nodejs",
+  "version": "1.0.0",
+  "description": "learning chalk",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayyanansari17/chalk.Nodejs.git"
+  },
+  "keywords": [
+    "chalk",
+    "nodejs",
+    "js"
+  ],
+  "author": "rayyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayyanansari17/chalk.Nodejs/issues"
+  },
+  "homepage": "https://github.com/rayyanansari17/chalk.Nodejs#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "readline-sync": "^1.4.10"
+  }
+}
