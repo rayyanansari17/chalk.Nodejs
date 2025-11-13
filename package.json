@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/rayyanansari17/chalk.Nodejs#readme",
   "dependencies": {
+    "axios": "^1.13.2",
     "chalk": "^5.6.2",
+    "dotenv": "^17.2.3",
     "readline-sync": "^1.4.10"
   }
 }
